@@ -21,4 +21,4 @@ Currently, I'm a ML intern at TII where i work on computer vision and generative
 # 👨‍🔬 Research Experience
 - **Researcher @ Technology Innovation Institute**: Co-authored Falcon Med-VQA, a generative system for medical visual question answering. The paper is submitted to the **AAAI** Conference
 - **Student Researcher @ UAEU SURE+ Program**: Conducted research on integrating social robots with AI models like ChatGPT to enhance educational experiences. Co-authored a paper accepted to **ICIET 2024**, focusing on the role of AI in transforming personalized learning environments.
-- Currently working on my third research paper in the computer vision domain (will be updating soon).
+- Currently working on my third research paper in the computer vision domain -will be updating soon-.
