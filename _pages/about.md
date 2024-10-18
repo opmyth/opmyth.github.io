@@ -10,7 +10,7 @@ redirect_from:
 
 👨‍💻 I'm a Computer Science graduate with a minor in statistics and data analytics from UAEU.
 
-Currently, I'm a ML intern at TII where i work on computer vision and generative AI projects.
+Currently, I'm a ML intern where i work on computer vision and generative AI projects.
 
 <!-- # Experience Overview -->
 # 💼 Work Experience:
