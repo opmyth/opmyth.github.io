@@ -13,7 +13,7 @@ redirect_from:
 Currently, I'm a ML intern where i work on computer vision and generative AI projects.
 
 <!-- # Experience Overview -->
-# 💼 Work Experience:
+# 💼 Work Experience
 ### **ML Intern**  
 *Technology Innovation Institute (TII)* — May 2024 – Present
 ### **Founder**
