@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-#### 👨‍💻 *Machine Learning Intern* | 🖼️ *Computer Vision Enthusiast* | 🤖 *AI Researcher* | *🚀 Startup Founder* 
+### 👨‍💻 *Machine Learning Intern* | 🖼️ *Computer Vision Enthusiast* | 🤖 *AI Researcher*  
 
 I'm a Computer Science graduate with a minor in Statistics and Data Analytics from UAE University, currently working as an ML Intern at the Technology Innovation Institute (TII). I focus on applying cutting-edge machine learning and computer vision techniques to solve real-world problems. Along with my technical experience, I've also ventured into entrepreneurship by founding Tanafos, an app unifying football communities, for which I won multiple innovation awards.
 
