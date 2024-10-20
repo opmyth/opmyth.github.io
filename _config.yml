@@ -20,8 +20,9 @@ repository               : "opmyth/opmyth.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
+
   # Biographic information
-  avatar           : "profile.jpeg"
+  avatar           : "profile.jpg"
   name             : "Hassan Alshanqiti"
   pronouns         : # example: "she/her"  
   bio              : "Computer Science Graduate and ML intern"
