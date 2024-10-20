@@ -28,7 +28,7 @@ I'm a Computer Science graduate with a minor in Statistics and Data Analytics fr
 
 ### 👨‍🔬 **Research Experience & Interests**
 
-My research lies at the intersection of machine learning, computer vision, and AI in healthcare.  
+My research lies at the intersection of machine learning, computer vision. 
 - **Researcher at TII**: Co-authored Falcon Med-VQA and contributed to vision-language model development for medical applications.  
 - **Student Researcher at UAEU**: Co-authored a paper accepted at ICIET 2024, exploring AI’s role in personalized learning using social robots integrated with AI models like ChatGPT.  
 - Currently working on my third research paper focused on computer vision.
