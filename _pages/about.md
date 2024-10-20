@@ -7,28 +7,37 @@ redirect_from:
   - /about.html
 ---
 
-# Hassan Alshanqiti
+👨‍💻 **Machine Learning Intern | Computer Vision Enthusiast | AI Researcher**
 
-👨‍💻 Machine Learning Intern | Computer Vision Enthusiast | AI Researcher | Award-Winning Entrepreneur
+I'm a Computer Science graduate with a minor in Statistics and Data Analytics from UAE University, currently working as an ML Intern at the Technology Innovation Institute (TII). I focus on applying cutting-edge machine learning and computer vision techniques to solve real-world problems. Along with my technical experience, I've also ventured into entrepreneurship by founding Tanafos, an app unifying football communities, for which I won multiple innovation awards.
 
-I'm a Computer Science graduate with a minor in Statistics and Data Analytics from UAE University, currently working as an ML Intern at the Technology Innovation Institute (TII). My focus is on cutting-edge computer vision and generative AI projects.
+### 🚀 **Experience**
 
-## 🚀 Experience
+- **ML Intern** at **Technology Innovation Institute (TII)** - May 2024 - Present  
+  - Hands-on experience with vision-language models (VLMs), applying them to medical image analysis tasks.  
+  - Co-authored Falcon Med-VQA, a generative system for medical visual question answering.  
+  - Developed deep learning models using tools like AWS, SageMaker, and Vision Transformers (ViTs).  
+  - Presented project advancements and co-authored a demo paper submitted to AAAI.
 
-- **ML Intern** at Technology Innovation Institute (TII) - May 2024 - Present
-- **Founder** of Tanafos - Jan 2023 - Feb 2024
-  - Led the development of an innovative app to unify the football community
-  - Won multiple startup pitch competitions, showcasing strong entrepreneurial skills
+- **Founder** of **Tanafos** - Jan 2023 - Feb 2024  
+  - Developed and led the vision of an app unifying the football community, winning first place at multiple innovation competitions.  
+  - Managed a multidisciplinary team to design and develop the app, implementing user feedback to enhance functionality.
 
-<br>
-## 🎓 Education
+### 🎓 **Education**
 
-B.S. Computer Science with Minor in Statistics and Data Analytics - UAE University (2020-2024)
-<br>
-## 👨‍🔬 Research Experiene & Interests
-My research interests lie at the intersection of machine learning, computer vision.
-<br>
-- **Researcher @ Technology Innovation Institute**: Co-authored Falcon Med-VQA, a generative system for medical visual question answering. The paper is submitted to the **AAAI** Conference.
-- **Student Researcher @ UAEU SURE+ Program**: Conducted research on integrating social robots with AI models like ChatGPT to enhance educational experiences. Co-authored a paper accepted to **ICIET 2024**, focusing on the role of AI in transforming personalized learning environments.
-- Currently working on my third research paper in the computer vision domain — will update soon.
+- **B.S. Computer Science**, Minor in Statistics and Data Analytics - UAE University (2020-2024)  
+  GPA: 3.83/4.0  
+
+### 👨‍🔬 **Research Experience & Interests**
+
+My research lies at the intersection of machine learning, computer vision, and AI in healthcare.  
+- **Researcher at TII**: Co-authored Falcon Med-VQA and contributed to vision-language model development for medical applications.  
+- **Student Researcher at UAEU**: Co-authored a paper accepted at ICIET 2024, exploring AI’s role in personalized learning using social robots integrated with AI models like ChatGPT.  
+- Currently working on my third research paper focused on computer vision.
+
+### 🏆 **Awards & Recognition**
+- **1st Place** at Entrepreneurship and Innovation Pre-Seed Funding Competition - Jan 2023  
+- **1st Place** at 8th Sharjah Chamber Award for Innovators - Feb 2024  
+- **Dean’s Honor List** - Dec 2021 - May 2024  
+- SDAIA ML Bootcamp Participant - Dec 2023 - Jan 2024
 
