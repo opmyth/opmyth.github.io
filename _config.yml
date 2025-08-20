@@ -22,12 +22,12 @@ repository               : "opmyth/opmyth.github.io"
 author:
 
   # Biographic information
-  avatar           : "profile2.jpg"
+  avatar           : "pfp.jpg"
   name             : "Hassan Alshanqiti"
   pronouns         : # example: "she/her"  
-  bio              : "Computer Science Graduate and ML intern"
-  location         : "Abu Dhabi, UAE"
-  employer         : "Technology Innovation Institute"
+  bio              : "AI MSc Student and R&D Analyst"
+  location         : "Riyadh, Saudi Arabia"
+  employer         : "THIQAH"
   uri              : # URL
   email            : "alansary227@gmail.com"
 
@@ -55,7 +55,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : hasan-alshanqiti
+  linkedin         : hassan-alshanqiti
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

@@ -11,35 +11,36 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.Sc. in Artificial Intelligence, University of Edinburgh, Sep 2025 – Present
+* B.Sc. in Computer Science (GPA: 3.83/4.0), United Arab Emirates University, Jan 2020 – Aug 2024
+  * Minor in Statistics and Data Analytics
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Apr 2025 – Sep 2025: Research & Development Analyst (Graduate Development Program)
+  * THIQAH, Riyadh, KSA
+  * Developed AI components and integrated them into an Internal Smart Bidding platform, including building the UI and deploying on the company's ArgoCD infrastructure
+  * Designed and implemented an internal tool enabling non-developers to rapidly create Proof-of-Concepts (PoCs), reducing dependency on the development team and streamlining communication
+  * Delivered in-depth technical sessions for the team on cutting-edge research papers (e.g., Vision Transformers, LoRA)
+  * Participated in workshops and training sessions, gaining exposure to diverse technologies and best practices in software development and deployment
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2024 – Nov 2024: ML Research Intern
+  * Technology Innovation Institute, Abu Dhabi, UAE
+  * Contributed to the Computer Vision Team for 6 months, specializing in cutting-edge AI solutions
+  * Played a key role in the development of Falcon Med-VQA, a visual question-answering system tailored for the medical domain
+  * Designed and implemented an interactive user interface for Falcon Med-VQA, integrating multiple advanced features for enhanced usability
+  * Gained extensive experience with VLLMs (Vision Large Language Models) and Vision Transformers (ViTs), applying these technologies to real-world healthcare challenges
+  * Leveraged cloud platforms like AWS to support scalable deployment and development workflows
+  * Was part of the data collection team, organization, and management efforts for Med-VQA and Falcon 3 series, ensuring the delivery of high-quality training datasets
+  * Prepared detailed reports and presentations to communicate project milestones and outcomes effectively
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages: Fluent in Arabic and English. Beginner in Spanish.
+* Technical Skills: Python, PyTorch Framework, Java, SQL, AWS, SageMaker, Git - GitHub, Docker, Argo, Kubernetes.
+* Communication Skills: Proven ability to convey information effectively, both verbally and non-verbally, in various settings.
+* Fast Learner & Adaptable: Quickly and effectively acquire new knowledge and skills; adaptable to different settings and environments.
+* Networking Skills: Excellent at establishing and nurturing relationships with people in the industry or related fields.
 
 Publications
 ======
@@ -59,6 +60,11 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Awards & Certificates
 ======
-* Currently signed in to 43 different slack teams
+* Building AI Applications with Python Bootcamp - SDAIA, Jan 2025 – Feb 2025
+* IELTS 7.0/9.0, Dec 2024
+* Secured 1st place at the 8th Sharjah Chamber Award for Innovators, Feb 2024
+* Completed the SDAIA ML Bootcamp, gaining advanced knowledge in machine learning, Dec 2023 – Jan 2024
+* Achieved 1st place at the Entrepreneurship and Innovation Pre-Seed Funding Competition, Jan 2023
+* Recognized on the Dean's Honor List for academic excellence, Dec 2021 – May 2024

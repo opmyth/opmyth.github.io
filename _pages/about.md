@@ -7,23 +7,28 @@ redirect_from:
   - /about.html
 ---
 
-### 👨‍💻 *Machine Learning Intern* | 🖼️ *Computer Vision Enthusiast* | 🤖 *AI Researcher*  
+### 👨‍💻 *AI MSc Student* | 🖼️ *Computer Vision Enthusiast* | 🤖 *R&D Analyst*  
 
-I'm a Computer Science graduate with a minor in Statistics and Data Analytics from UAE University, currently working as an ML Intern at the Technology Innovation Institute (TII). I focus on applying cutting-edge machine learning and computer vision techniques to solve real-world problems. Along with my technical experience, I've also ventured into entrepreneurship by founding Tanafos, an app unifying football communities, for which I won multiple innovation awards.
+I'm a Computer Science graduate with a minor in Statistics and Data Analytics from UAE University (GPA: 3.83/4.0), currently pursuing an Artificial Intelligence MSc at the University of Edinburgh. I work as a Research & Development Analyst at THIQAH through their Graduate Development Program, where I develop AI components and integrate them into smart platforms. I focus on applying cutting-edge machine learning and computer vision techniques to solve real-world problems.
 
 ### 🚀 **Experience**
 
-- **ML Intern** at **Technology Innovation Institute (TII)** - May 2024 - Present  
-  - Hands-on experience with vision-language models (VLMs), applying them to medical image analysis tasks.  
-  - Co-authored Falcon Med-VQA, a generative system for medical visual question answering.  
-  - Presented project advancements and co-authored a demo paper submitted to AAAI.
+- **Research & Development Analyst (Graduate Development Program)** at **THIQAH** - Apr 2025 - Sep 2025  
+  - Developed AI components and integrated them into an Internal Smart Bidding platform, including building the UI and deploying on ArgoCD infrastructure.  
+  - Designed and implemented an internal tool enabling non-developers to rapidly create Proof-of-Concepts (PoCs).  
+  - Delivered in-depth technical sessions on cutting-edge research papers (Vision Transformers, LoRA).
 
-- **Founder** of **Tanafos** - Jan 2023 - Feb 2024  
-  - Developed and led the vision of an app unifying the football community, winning first place at multiple innovation competitions.  
+- **ML Research Intern** at **Technology Innovation Institute (TII)** - May 2024 - Nov 2024  
+  - Contributed to the Computer Vision Team, specializing in cutting-edge AI solutions.  
+  - Played a key role in the development of Falcon Med-VQA, a visual question-answering system for the medical domain.  
+  - Designed and implemented an interactive user interface for Falcon Med-VQA with advanced features.  
+  - Gained extensive experience with VLLMs and Vision Transformers, applying them to healthcare challenges.  
 
 ### 🎓 **Education**
 
-- **B.S. Computer Science**, Minor in Statistics and Data Analytics - UAE University (2020-2024)  
+- **M.Sc. Artificial Intelligence** - University of Edinburgh (Sep 2025 - Present)  
+
+- **B.Sc. Computer Science**, Minor in Statistics and Data Analytics - United Arab Emirates University (Jan 2020 - Aug 2024)  
   GPA: 3.83/4.0  
 
 ### 👨‍🔬 **Research Experience & Interests**
@@ -34,8 +39,10 @@ My research lies at the intersection of machine learning, computer vision.
 - Currently working on my third research paper focused on computer vision.
 
 ### 🏆 **Awards & Recognition**
-- **1st Place** at Entrepreneurship and Innovation Pre-Seed Funding Competition - Jan 2023  
+- **Building AI Applications with Python Bootcamp** - SDAIA (Jan 2025 - Feb 2025)  
+- **IELTS 7.0/9.0** - Dec 2024  
 - **1st Place** at 8th Sharjah Chamber Award for Innovators - Feb 2024  
-- **Dean’s Honor List** - Dec 2021 - May 2024  
-- **SDAIA ML Bootcamp Participant** - Dec 2023 - Jan 2024
+- **SDAIA ML Bootcamp** - Dec 2023 - Jan 2024  
+- **1st Place** at Entrepreneurship and Innovation Pre-Seed Funding Competition - Jan 2023  
+- **Dean's Honor List** - Dec 2021 - May 2024
 
