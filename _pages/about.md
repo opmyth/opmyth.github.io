@@ -37,9 +37,6 @@ I'm currently pursuing an Artificial Intelligence MSc at the University of Edinb
 
 ### **Research Experience & Interests**
 
-My research focuses on the intersection of machine learning, computer vision, and natural language processing, with particular emphasis on vision-language models and their generative capabilities.
-
-**Previous Research**  
 - **Technology Innovation Institute**: Co-authored Falcon Med-VQA, contributing to vision-language model development for medical applications
 - **UAE University**: Co-authored a paper accepted at ICIET 2024, exploring AI's role in personalized learning using social robots integrated with AI models like ChatGPT
 
