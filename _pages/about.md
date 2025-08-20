@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-### *AI MSc Student* | *Computer Vision Researcher* | *Machine Learning Specialist*  
-
 I'm currently pursuing an Artificial Intelligence MSc at the University of Edinburgh, building on my Computer Science background with a minor in Statistics and Data Analytics from UAE University. I work as a part-time researcher under the supervision of Dr. Abdelrahman Eldesokey (Postdoctoral Research Fellow at KAUST), focusing on cutting-edge research in vision-language models and schematic diagram generation. My research interests lie at the intersection of computer vision and artificial intelligence, where I aim to develop methods that advance visual understanding and create meaningful real-world applications.
 
 ### **Experience**
