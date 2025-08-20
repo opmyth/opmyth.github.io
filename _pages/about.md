@@ -9,16 +9,16 @@ redirect_from:
 
 ### *AI MSc Student* | *Computer Vision Researcher* | *Machine Learning Specialist*  
 
-I'm a Computer Science graduate with a minor in Statistics and Data Analytics from UAE University (GPA: 3.83/4.0), currently pursuing an Artificial Intelligence MSc at the University of Edinburgh. I work as a part-time researcher under the supervision of Dr. Abdelrahman Eldesokey (Postdoctoral Research Fellow at KAUST) on cutting-edge research in vision-language models and schematic diagram generation. My research focuses on understanding the relationship between generation and comprehension capabilities in large language models and vision-language models.
+I'm a Computer Science graduate with a minor in Statistics and Data Analytics from UAE University (GPA: 3.83/4.0), currently pursuing an Artificial Intelligence MSc at the University of Edinburgh. I work as a part-time researcher under the supervision of Dr. Abdelrahman Eldesokey (Postdoctoral Research Fellow at KAUST) on cutting-edge research in vision-language models and schematic diagram generation. I am broadly interested in computer vision and its intersection with artificial intelligence, aiming to contribute to methods that enhance visual understanding and practical applications."
 
 ### **Experience**
 
-- **Research & Development Analyst (Graduate Development Program)** at **THIQAH** - Apr 2025 - Sep 2025  
+- **Research & Development Analyst (Graduate Development Program)** at **THIQAH - Riyadh, KSA** - Apr 2025 - Sep 2025  
   - Developed AI components and integrated them into an Internal Smart Bidding platform, including building the UI and deploying on ArgoCD infrastructure.  
   - Designed and implemented an internal tool enabling non-developers to rapidly create Proof-of-Concepts (PoCs).  
   - Delivered in-depth technical sessions on cutting-edge research papers (Vision Transformers, LoRA).
 
-- **ML Research Intern** at **Technology Innovation Institute (TII)** - May 2024 - Nov 2024  
+- **ML Research Intern** at **Technology Innovation Institute (TII) - Abu Dhabi, UAE** - May 2024 - Nov 2024  
   - Contributed to the Computer Vision Team, specializing in cutting-edge AI solutions.  
   - Played a key role in the development of Falcon Med-VQA, a visual question-answering system for the medical domain.  
   - Designed and implemented an interactive user interface for Falcon Med-VQA with advanced features.  
