@@ -13,7 +13,7 @@ I'm currently pursuing an Artificial Intelligence MSc at the University of Edinb
 
 ### **Experience**
 
-- **Part-time Researcher** under **Dr. Abdelrahman Eldesokey - KAUST Collaboration** - Sep 2024 - Present  
+- **Part-time Researcher** under **Dr. Abdelrahman Eldesokey - KAUST Collaboration** - Sep 2025 - Present  
   - Beginning research on the relationship between generation and understanding capabilities in vision-language models
 
 
