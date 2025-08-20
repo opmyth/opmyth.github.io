@@ -1,17 +1,17 @@
 ---
 permalink: /
-title: "👋 Hello there, I'm Hassan :)"
+title: "Hello there, I'm Hassan"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-### 👨‍💻 *AI MSc Student* | 🖼️ *Computer Vision Enthusiast* | 🤖 *R&D Analyst*  
+### *AI MSc Student* | *Computer Vision Researcher* | *Machine Learning Specialist*  
 
-I'm a Computer Science graduate with a minor in Statistics and Data Analytics from UAE University (GPA: 3.83/4.0), currently pursuing an Artificial Intelligence MSc at the University of Edinburgh. I work as a Research & Development Analyst at THIQAH through their Graduate Development Program, where I develop AI components and integrate them into smart platforms. I focus on applying cutting-edge machine learning and computer vision techniques to solve real-world problems.
+I'm a Computer Science graduate with a minor in Statistics and Data Analytics from UAE University (GPA: 3.83/4.0), currently pursuing an Artificial Intelligence MSc at the University of Edinburgh. I work as a part-time researcher under the supervision of Dr. Abdelrahman Eldesokey (Postdoctoral Research Fellow at KAUST) on cutting-edge research in vision-language models and schematic diagram generation. My research focuses on understanding the relationship between generation and comprehension capabilities in large language models and vision-language models.
 
-### 🚀 **Experience**
+### **Experience**
 
 - **Research & Development Analyst (Graduate Development Program)** at **THIQAH** - Apr 2025 - Sep 2025  
   - Developed AI components and integrated them into an Internal Smart Bidding platform, including building the UI and deploying on ArgoCD infrastructure.  
@@ -24,21 +24,28 @@ I'm a Computer Science graduate with a minor in Statistics and Data Analytics fr
   - Designed and implemented an interactive user interface for Falcon Med-VQA with advanced features.  
   - Gained extensive experience with VLLMs and Vision Transformers, applying them to healthcare challenges.  
 
-### 🎓 **Education**
+### **Education**
 
 - **M.Sc. Artificial Intelligence** - University of Edinburgh (Sep 2025 - Present)  
 
 - **B.Sc. Computer Science**, Minor in Statistics and Data Analytics - United Arab Emirates University (Jan 2020 - Aug 2024)  
   GPA: 3.83/4.0  
 
-### 👨‍🔬 **Research Experience & Interests**
+### **Research Experience & Interests**
 
-My research lies at the intersection of machine learning, computer vision. 
-- **Researcher at TII**: Co-authored Falcon Med-VQA and contributed to vision-language model development for medical applications.  
-- **Student Researcher at UAEU**: Co-authored a paper accepted at ICIET 2024, exploring AI’s role in personalized learning using social robots integrated with AI models like ChatGPT.  
-- Currently working on my third research paper focused on computer vision.
+My research focuses on the intersection of machine learning, computer vision, and natural language processing, with particular emphasis on vision-language models and their generative capabilities.
 
-### 🏆 **Awards & Recognition**
+**Current Research (2024-Present)**  
+*Part-time Researcher under Dr. Abdelrahman Eldesokey, KAUST*  
+- Investigating the relationship between generation and understanding capabilities in Large Language Models (LLMs) and Vision-Language Models (VLMs)
+- Exploring whether training models to generate schematic diagrams (process flow diagrams, programming flowcharts) improves their comprehension abilities
+- Working with chart image-code datasets and fine-tuning approaches for enhanced visual reasoning
+
+**Previous Research**  
+- **Technology Innovation Institute**: Co-authored Falcon Med-VQA, contributing to vision-language model development for medical applications
+- **UAE University**: Co-authored a paper accepted at ICIET 2024, exploring AI's role in personalized learning using social robots integrated with AI models like ChatGPT
+
+### **Awards & Recognition**
 - **Building AI Applications with Python Bootcamp** - SDAIA (Jan 2025 - Feb 2025)  
 - **IELTS 7.0/9.0** - Dec 2024  
 - **1st Place** at 8th Sharjah Chamber Award for Innovators - Feb 2024  

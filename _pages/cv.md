@@ -15,7 +15,17 @@ Education
 * B.Sc. in Computer Science (GPA: 3.83/4.0), United Arab Emirates University, Jan 2020 – Aug 2024
   * Minor in Statistics and Data Analytics
 
-Work experience
+Research Experience
+======
+* Sep 2024 – Present: Part-time Researcher
+  * University of Edinburgh / KAUST Collaboration
+  * Supervisor: Dr. Abdelrahman Eldesokey (Postdoctoral Research Fellow, KAUST)
+  * Research focus: Investigating the relationship between generation and understanding capabilities in Large Language Models (LLMs) and Vision-Language Models (VLMs)
+  * Current project: Exploring whether training models to generate schematic diagrams (process flow diagrams, programming flowcharts) improves their comprehension abilities
+  * Working with chart image-code datasets and fine-tuning approaches for enhanced visual reasoning
+  * Research areas: Diffusion Models, Computer Vision, Large Language Models, Retrieval-augmented generation
+
+Work Experience
 ======
 * Apr 2025 – Sep 2025: Research & Development Analyst (Graduate Development Program)
   * THIQAH, Riyadh, KSA
