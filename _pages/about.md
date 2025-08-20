@@ -39,12 +39,6 @@ I'm currently pursuing an Artificial Intelligence MSc at the University of Edinb
 
 My research focuses on the intersection of machine learning, computer vision, and natural language processing, with particular emphasis on vision-language models and their generative capabilities.
 
-**Current Research (2024-Present)**  
-*Part-time Researcher under Dr. Abdelrahman Eldesokey, KAUST*  
-- Investigating the relationship between generation and understanding capabilities in Large Language Models (LLMs) and Vision-Language Models (VLMs)
-- Exploring whether training models to generate schematic diagrams (process flow diagrams, programming flowcharts) improves their comprehension abilities
-- Working with chart image-code datasets and fine-tuning approaches for enhanced visual reasoning
-
 **Previous Research**  
 - **Technology Innovation Institute**: Co-authored Falcon Med-VQA, contributing to vision-language model development for medical applications
 - **UAE University**: Co-authored a paper accepted at ICIET 2024, exploring AI's role in personalized learning using social robots integrated with AI models like ChatGPT
