@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello there, I'm Hassan"
+title: "Hi there citizen of the Internet! My name is Hasan, pleasure to meet you!"
 author_profile: true
 redirect_from:
   - /about/
