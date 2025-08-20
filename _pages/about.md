@@ -9,9 +9,13 @@ redirect_from:
 
 ### *AI MSc Student* | *Computer Vision Researcher* | *Machine Learning Specialist*  
 
-I'm a Computer Science graduate with a minor in Statistics and Data Analytics from UAE University (GPA: 3.83/4.0), currently pursuing an Artificial Intelligence MSc at the University of Edinburgh. I work as a part-time researcher under the supervision of Dr. Abdelrahman Eldesokey (Postdoctoral Research Fellow at KAUST) on cutting-edge research in vision-language models and schematic diagram generation. I am broadly interested in computer vision and its intersection with artificial intelligence, aiming to contribute to methods that enhance visual understanding and practical applications."
+I'm currently pursuing an Artificial Intelligence MSc at the University of Edinburgh, building on my Computer Science background with a minor in Statistics and Data Analytics from UAE University. I work as a part-time researcher under the supervision of Dr. Abdelrahman Eldesokey (Postdoctoral Research Fellow at KAUST), focusing on cutting-edge research in vision-language models and schematic diagram generation. My research interests lie at the intersection of computer vision and artificial intelligence, where I aim to develop methods that advance visual understanding and create meaningful real-world applications.
 
 ### **Experience**
+
+- **Part-time Researcher** under **Dr. Abdelrahman Eldesokey - KAUST Collaboration** - Sep 2024 - Present  
+  - Beginning research on the relationship between generation and understanding capabilities in vision-language models
+
 
 - **Research & Development Analyst (Graduate Development Program)** at **THIQAH - Riyadh, KSA** - Apr 2025 - Sep 2025  
   - Developed AI components and integrated them into an Internal Smart Bidding platform, including building the UI and deploying on ArgoCD infrastructure.  
