@@ -1,19 +1,19 @@
 ---
 permalink: /
-title: "Hi, I’m Hasan, nice to meet you!"
+title: "Hi, I’m Hassan, nice to meet you!"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I'm currently pursuing an Artificial Intelligence MSc at the University of Edinburgh, building on my Computer Science background with a minor in Statistics and Data Analytics from UAE University. I work as a part-time researcher under the supervision of Dr. Abdelrahman Eldesokey (Postdoctoral Research Fellow at KAUST), focusing on cutting-edge research in vision-language models and schematic diagram generation. My research interests lie at the intersection of computer vision and artificial intelligence, where I aim to develop methods that advance visual understanding and create meaningful real-world applications.
+I’m doing my MSc in Artificial Intelligence at the University of Edinburgh. I also work with Dr. Abdelrahman Eldesokey (KAUST) on research around how models can both generate and understand visuals.
+
 
 ### **Experience**
 
-- **Part-time Researcher** under **Dr. Abdelrahman Eldesokey - KAUST Collaboration** - Sep 2025 - Present  
-  - Beginning research on the relationship between generation and understanding capabilities in vision-language models
-
+- **Part-time Researcher** under **Dr. Abdelrahman Eldesokey - KAUST Collaboration** - Nov 2025 - Present  
+  - Focusing on the interplay between generation and understanding in multimodal large models.
 
 - **Research & Development Analyst (Graduate Development Program)** at **THIQAH - Riyadh, KSA** - Apr 2025 - Sep 2025  
   - Developed AI components and integrated them into an Internal Smart Bidding platform, including building the UI and deploying on ArgoCD infrastructure.  
@@ -33,7 +33,7 @@ I'm currently pursuing an Artificial Intelligence MSc at the University of Edinb
 - **B.Sc. Computer Science**, Minor in Statistics and Data Analytics - United Arab Emirates University (Jan 2020 - Aug 2024)  
   GPA: 3.83/4.0  
 
-### **Research Experience & Interests**
+### **Research Experience**
 
 - **Technology Innovation Institute**: Co-authored Falcon Med-VQA, contributing to vision-language model development for medical applications
 - **UAE University**: Co-authored a paper accepted at ICIET 2024, exploring AI's role in personalized learning using social robots integrated with AI models like ChatGPT
