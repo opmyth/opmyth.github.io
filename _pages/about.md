@@ -28,7 +28,7 @@ I’m doing my MSc in Artificial Intelligence at the University of Edinburgh. I 
 
 ### **Education**
 
-- **M.Sc. Artificial Intelligence** - University of Edinburgh (Sep 2025 - Present)  
+- **MSc. Artificial Intelligence** - University of Edinburgh (Sep 2025 - Present)  
 
 - **B.Sc. Computer Science**, Minor in Statistics and Data Analytics - United Arab Emirates University (Jan 2020 - Aug 2024)  
   GPA: 3.83/4.0  
