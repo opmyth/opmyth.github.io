@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, I’m Hassan, nice to meet you!"
+title: ""
 author_profile: true
 redirect_from:
   - /about/
