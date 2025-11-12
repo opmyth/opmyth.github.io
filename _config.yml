@@ -30,7 +30,7 @@ author:
   employer         : "University of Edinburgh"
   uri              : # URL
   email            : "alansary227@gmail.com"
-  cv               : "/files/cv.pdf"
+  cv               : # "/files/cv.pdf"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
